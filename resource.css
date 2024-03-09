@@ -1,0 +1,21 @@
+h1{
+    color: rgb(255, 0, 111);
+    text-align: center;
+    font-size: 50px;
+}
+h2{
+    color: rgb(255, 0, 111);
+    font-size: 30px;
+}
+a{
+    font-size: 30px;
+    color: rgb(241, 50, 117);
+}
+
+li{
+    font-size: 20px;
+    color: rgb(241, 95, 146);
+}
+html{
+    background:rgb(247, 209, 230)
+}
